@@ -15,5 +15,8 @@
         <page name='Extension'/>
         <page name='Generic'/>
         <page name='Error Handling'/>
+        <page name='TypeCasting'/>
+        <page name='Struct vs Class'/>
+        <page name='Guard Statement'/>
     </pages>
 </playground>
